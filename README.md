@@ -1,6 +1,8 @@
 # pandas-challenge
 This is the Module 4 Challenge covering Pandas for the April-October 2024 Data Boot Camp
 
+Inside the Submission folder you will find the Jupyter Notebook, a Resources folder, and a PDF of the analysis.
+
 We were tasked with creating and manipulating Pandas DataFrames to analyze school and standardized test data.
 
 I utilized several different functions such as groupby and mean, but made particular use of binning with pd.cut.
